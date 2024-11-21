@@ -1,4 +1,4 @@
-# EX-12--Implementation-of-Huffman-Coding-Algorithm
+# EX-11-Implementation-of-Huffman-Coding-Algorithm
 ## Aim:
 To implement Huffman coding to compress the data using Python.
 
